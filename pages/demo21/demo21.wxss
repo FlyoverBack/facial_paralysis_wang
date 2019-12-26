@@ -1,0 +1,18 @@
+view{
+    width: 90%;
+    padding: 5%;
+}
+.h3{
+    flex: 1;
+    font-size: 50rpx;
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-around;
+}
+.date{
+    flex: 1;
+    color: #666;
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-around;
+}
